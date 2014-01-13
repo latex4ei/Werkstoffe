@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox='0 0 144 140' width='720' height='700'>
+	<path fill='none' stroke='#000' d='M36,115l-24.5,-12.5V20.5H94.5l24.5,12.5 M11.5,20.5l24.5,12.5'/>
+	<path fill='none' stroke='#000' stroke-dasharray='5,4' d='M11.5,102.5H94.5V20.5 M94.5,102.5l24.5,12.5'/>
+	<g fill='none' stroke='#000' opacity='.4' stroke-width='.5'>
+		<path d='M11.5,20.5L94.5,102.5  M11.5,102.5L94.5,20.5'/>
+		<path d='M94.5,20.5L119,115  M119,33L94.5,102.5'/>
+		<path d='M11.5,102.5L119,115  M94.5,102.5L36,115'/>
+	</g>
+	<path fill='none' stroke='#000' d='M36,33V115H119V33H36'/>
+	<g fill='none' stroke-width='.5' stroke='#000'>
+		<path d='M36,33L119,115  M119,33L36,115'/>
+		<path d='M36,33L11.5,102.5  M11.5,20.5L36,115'/>
+		<path d='M36,33L94.5,20.5  M11.5,20.5L119,33'/>
+	</g>
+	<g fill='#000' stroke='none'>
+		<circle cx='36' cy='33' r='3'/>
+		<circle cx='119' cy='33' r='3'/>
+		<circle cx='11.5' cy='102.5' r='3'/>
+		<circle cx='94.5' cy='102.5' r='3'/>
+		<circle cx='94.5' cy='20.5' r='3'/>
+		<circle cx='11.5' cy='20.5' r='3'/>
+		<circle cx='119' cy='115' r='3'/>
+
+		<circle cx='23.75' cy='67.75' r='3'/>
+		<circle cx='77.5' cy='74' r='3'/>
+		<circle cx='65.25' cy='26.75' r='3'/>
+		<circle cx='65.25' cy='108.75' r='3'/>
+	</g>
+	<g fill='#f00' stroke='none'>
+		<circle cx='36' cy='115' r='3'/>
+		<circle cx='106.75' cy='67.75' r='3'/>
+		<circle cx='53' cy='61.5' r='3'/>
+	</g>
+</svg>
